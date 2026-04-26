@@ -1,0 +1,17 @@
+{
+  "name": "مكتبة الألحان",
+  "short_name": "مكتبة الألحان",
+  "description": "كتب وألحان الكنيسة القبطية الأرثوذكسية",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08152e",
+  "theme_color": "#08152e",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/12.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/12.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
